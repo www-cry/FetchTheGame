@@ -4,7 +4,7 @@ Fetch the game is an arcade 2D game where you must throw the ball to your dog!
 
 # The controls are:
 In the settings: 
-*   - + - for the volume adjustment
+*   - "+" "-" for the volume adjustment
     - A D to change the player skin
     - Arrow Left Arrow right to adjust the amount of required fetches for win condition (the maximum number is 10)
 During the game:
