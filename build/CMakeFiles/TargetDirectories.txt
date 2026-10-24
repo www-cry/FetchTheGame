@@ -1,0 +1,3 @@
+D:/VSCODE stuff/FetchTheGame/build/CMakeFiles/FetchTheGame.dir
+D:/VSCODE stuff/FetchTheGame/build/CMakeFiles/edit_cache.dir
+D:/VSCODE stuff/FetchTheGame/build/CMakeFiles/rebuild_cache.dir

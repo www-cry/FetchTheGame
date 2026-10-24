@@ -1,0 +1,7 @@
+# ninja log v7
+75	14958	8145828613641997	CMakeFiles/FetchTheGame.dir/src/Ball.cpp.obj	d955f71b5d19e9c1
+56	15041	8145828613452115	CMakeFiles/FetchTheGame.dir/src/Dog.cpp.obj	efe7280bb776abb7
+24	15444	8145828613152283	CMakeFiles/FetchTheGame.dir/src/main.cpp.obj	c359049b6bb2b739
+47	19093	8145828613362176	CMakeFiles/FetchTheGame.dir/src/Menu.cpp.obj	13b4d723b459a150
+36	28296	8145828613252230	CMakeFiles/FetchTheGame.dir/src/GameEng.cpp.obj	9ac4c35e2ad30126
+28302	30216	8145828895925651	FetchTheGame.exe	4d79889adebb93f

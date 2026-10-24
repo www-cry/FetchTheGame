@@ -1,0 +1,32 @@
+[
+{
+  "directory": "D:/VSCODE stuff/FetchTheGame/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -g -std=gnu++17 -o CMakeFiles\\FetchTheGame.dir\\src\\main.cpp.obj -c \"D:\\VSCODE stuff\\FetchTheGame\\src\\main.cpp\"",
+  "file": "D:/VSCODE stuff/FetchTheGame/src/main.cpp",
+  "output": "D:/VSCODE stuff/FetchTheGame/build/CMakeFiles/FetchTheGame.dir/src/main.cpp.obj"
+},
+{
+  "directory": "D:/VSCODE stuff/FetchTheGame/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -g -std=gnu++17 -o CMakeFiles\\FetchTheGame.dir\\src\\GameEng.cpp.obj -c \"D:\\VSCODE stuff\\FetchTheGame\\src\\GameEng.cpp\"",
+  "file": "D:/VSCODE stuff/FetchTheGame/src/GameEng.cpp",
+  "output": "D:/VSCODE stuff/FetchTheGame/build/CMakeFiles/FetchTheGame.dir/src/GameEng.cpp.obj"
+},
+{
+  "directory": "D:/VSCODE stuff/FetchTheGame/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -g -std=gnu++17 -o CMakeFiles\\FetchTheGame.dir\\src\\Menu.cpp.obj -c \"D:\\VSCODE stuff\\FetchTheGame\\src\\Menu.cpp\"",
+  "file": "D:/VSCODE stuff/FetchTheGame/src/Menu.cpp",
+  "output": "D:/VSCODE stuff/FetchTheGame/build/CMakeFiles/FetchTheGame.dir/src/Menu.cpp.obj"
+},
+{
+  "directory": "D:/VSCODE stuff/FetchTheGame/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -g -std=gnu++17 -o CMakeFiles\\FetchTheGame.dir\\src\\Dog.cpp.obj -c \"D:\\VSCODE stuff\\FetchTheGame\\src\\Dog.cpp\"",
+  "file": "D:/VSCODE stuff/FetchTheGame/src/Dog.cpp",
+  "output": "D:/VSCODE stuff/FetchTheGame/build/CMakeFiles/FetchTheGame.dir/src/Dog.cpp.obj"
+},
+{
+  "directory": "D:/VSCODE stuff/FetchTheGame/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -g -std=gnu++17 -o CMakeFiles\\FetchTheGame.dir\\src\\Ball.cpp.obj -c \"D:\\VSCODE stuff\\FetchTheGame\\src\\Ball.cpp\"",
+  "file": "D:/VSCODE stuff/FetchTheGame/src/Ball.cpp",
+  "output": "D:/VSCODE stuff/FetchTheGame/build/CMakeFiles/FetchTheGame.dir/src/Ball.cpp.obj"
+}
+]

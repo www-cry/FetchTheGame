@@ -1,0 +1,4 @@
+Player sprite : sucess
+Dog sprite : sucess
+
+ == Game session #1 has been started == 
